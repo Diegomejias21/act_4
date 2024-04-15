@@ -1,0 +1,22 @@
+
+.carousel-inner{
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+}
+.carousel-item{
+    margin-top: auto;
+}
+
+.img{
+    
+}
+.container{
+
+}
+h5{
+  color: white;
+}
+a{
+    color:aliceblue;
+}
